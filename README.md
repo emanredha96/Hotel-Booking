@@ -1,7 +1,7 @@
 # Hotel-# 📊 Hotel Booking Analysis – Capstone Project
 
 ## 👤 Author
-**[Your Full Name]**  
+**[Eman Abdulredha]**  
 Data Analyst – Capstone Project (2025)
 
 ---
